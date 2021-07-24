@@ -1,5 +1,6 @@
 # Ford GoBike Analysis
 
+![alt text](https://github.com/Abd97saad/FordGoBike-Analysis/blob/main/ford-gobike.jpg?raw=true)
 
 ## Introduction
 
