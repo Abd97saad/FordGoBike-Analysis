@@ -37,13 +37,22 @@ bike_share_for_all_trip
 
 
 ## Summary of Findings
-
+In the exploration, There are three main findings which are:
 
 - **Female takes longer trips than male.** One of the most interesting facts that female has the longer trip average duration than the male. Across all ages, the differences between the duration of male riders and female riders are noticeable. However, the other gender type has a higher average duration than both females and males.
 
 - **Usually people are using the bike for quick rides.** Most of the riders use the bike for a quick trip an average of 6 minutes. This might be because of the subscribers who are going inside the cities between home to school or work. 
 
 - **Ages of _21_ and _40_ tend to ride the bike for a longer time.** Not surprisingly, we have seen the younger people tend to ride the bike for longer trips. People in their 20s and 30s are expected to have longer trips than 40s and 50s. and that's why the right skew does exist in the histogram. 
+
+
+
+## Key Insights for Presentation
+
+For the presentation, I worked influence of the main variables which are (Age, Gender and User type). These variables affect directly the trip duration and the number of trips by the user. I start by introducing the average duration and in a histogram, followed by violin distribution.
+
+Afterward, I introduce each of the relationships one by one. First, I use the violin plots of gender and trip duration. I'm only looking at the trip duration of less than 60 minutes here, to focus the analysis and eliminating outliers. Then, I looked into scatterplot for the duration in terms of gender, and age groups.
+
 
 
 
